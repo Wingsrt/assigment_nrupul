@@ -1,0 +1,61 @@
+
+.box{
+
+    width: 200px;
+    height: 240px;
+    border: 2px solid black;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cover{
+    width: 200px;
+    height: 120px;
+}
+
+.mainbox{
+
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid red;
+    margin-left: 20%;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbox{
+  
+    width: 300px;
+    margin-left: 30%;
+}
+.drop{
+
+    width: 100px;
+    position: absolute;
+    background-color: aliceblue;
+   
+}
+
+.op{
+
+    margin-left: 30%;
+}
+
+.pagi{
+    display: flex;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    margin-left: 30%;
+}
+
+button{
+    width: 50px;
+    height: 20px;
+    margin: 20px;
+}
+
